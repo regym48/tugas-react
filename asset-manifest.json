@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/tugas-react/static/js/main.a5e7bc2c.chunk.js",
+    "main.js.map": "/tugas-react/static/js/main.a5e7bc2c.chunk.js.map",
+    "runtime-main.js": "/tugas-react/static/js/runtime-main.0358764f.js",
+    "runtime-main.js.map": "/tugas-react/static/js/runtime-main.0358764f.js.map",
+    "static/js/2.b22dd2d7.chunk.js": "/tugas-react/static/js/2.b22dd2d7.chunk.js",
+    "static/js/2.b22dd2d7.chunk.js.map": "/tugas-react/static/js/2.b22dd2d7.chunk.js.map",
+    "static/js/3.a859f35b.chunk.js": "/tugas-react/static/js/3.a859f35b.chunk.js",
+    "static/js/3.a859f35b.chunk.js.map": "/tugas-react/static/js/3.a859f35b.chunk.js.map",
+    "index.html": "/tugas-react/index.html",
+    "static/js/2.b22dd2d7.chunk.js.LICENSE.txt": "/tugas-react/static/js/2.b22dd2d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0358764f.js",
+    "static/js/2.b22dd2d7.chunk.js",
+    "static/js/main.a5e7bc2c.chunk.js"
+  ]
+}
